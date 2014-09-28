@@ -1,1 +1,1 @@
-console.log("Hello".length);
+console.log("Hello".length * 2);
